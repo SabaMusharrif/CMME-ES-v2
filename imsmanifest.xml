@@ -8,6 +8,9 @@
         <title>
           <langstring xml:lang="x-none">CMME-ES-v2</langstring>
         </title>
+        <description>
+          <langstring xml:lang="x-none">Edits incorporated on 071023</langstring>
+        </description>
       </general>
       <lifecycle>
         <version>
@@ -82,7 +85,6 @@
       <file href="mobile/69oxFiizYXF.png" />
       <file href="mobile/6Zd9ZJ8sJ4x.png" />
       <file href="mobile/5frPxWmTGxt.png" />
-      <file href="mobile/5lSeQ80hO3S.png" />
       <file href="story_content/5t515hHKWK8_44100_48_0.mp3" />
       <file href="story_content/6SmZqarVK3d_44100_48_0.mp3" />
       <file href="mobile/6EzLHZng5cS.png" />
@@ -1993,7 +1995,6 @@
       <file href="html5/data/js/6Jk5MHnFtnl.js" />
       <file href="html5/data/js/6md5eF7HuTo.js" />
       <file href="html5/data/js/6OmXyIoxbYK.js" />
-      <file href="html5/data/js/6py7ZR4aEzY.js" />
       <file href="html5/data/js/6qmzyltYP0s.js" />
       <file href="html5/data/js/6UpSMsGjZEB.js" />
       <file href="html5/data/js/6VEwH0xlh0o.js" />
